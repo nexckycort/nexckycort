@@ -27,6 +27,57 @@ I'm a developer passionate about developing Full Stack applications with free an
 <code><img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" height="20"></code>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 477 Contributions in the Year 2020
+ > 
+> 📦 91.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 4 Public Repositories
+ > 
+> 🔑 69 Private Repositories 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+TypeScript               2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   46.0% 
+Markdown                 1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.48% 
+JSON                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
+
+🔥 Editors: 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    5 hrs 54 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   31.08% 
+TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/nexckycort/nexckycort/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
