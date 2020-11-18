@@ -27,7 +27,7 @@ I'm a developer passionate about developing Full Stack applications with free an
 <code><img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" height="20"></code>
 
 <!-- Stats -->
-📈 **My Dev Statistics: **  
+📈 **My Dev Statistics:**  
 
 <!-- waka time stats-->
 
