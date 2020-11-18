@@ -69,6 +69,3 @@ Linux                    5 hrs 54 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
-
- <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nexckycort&layout=compact&theme=material-palenight" />
