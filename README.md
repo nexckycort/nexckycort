@@ -26,6 +26,12 @@ I'm a developer passionate about developing Full Stack applications with free an
 <code><img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" height="20"></code>
 <code><img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" height="20"></code>
 
+<!-- Stats -->
+<h3>📈 My Dev Statistics: </h3>
+
+<br />
+<!-- waka time stats-->
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
