@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '30 19 * * *'
 
 jobs:
   update-readme:
@@ -16,3 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
