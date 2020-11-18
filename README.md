@@ -27,7 +27,7 @@ I'm a developer passionate about developing Full Stack applications with free an
 <code><img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" height="20"></code>
 
 <!-- Stats -->
-<h3>📈 My Dev Statistics: </h3>
+**📈 My Dev Statistics: **  
 
 <br />
 <!-- waka time stats-->
@@ -66,22 +66,6 @@ VS Code                  5 hrs 54 mins       ███████████�
 Linux                    5 hrs 54 mins       █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   31.08% 
-TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
-Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/nexckycort/nexckycort/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
