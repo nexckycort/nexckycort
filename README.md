@@ -34,9 +34,9 @@ I'm a developer passionate about developing Full Stack applications with free an
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 213 Contributions in the Year 2021
+> 🏆 229 Contributions in the Year 2021
  > 
-> 📦 93.7 kB Used in Github's Storage 
+> 📦 93.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
