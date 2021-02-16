@@ -3,7 +3,7 @@
 I'm a developer passionate about developing Full Stack applications with free and open source technologies from Colombia. I like Go, TypeScript, and fast websites.
 
 - 👨🏽‍💻 I'm currently working with **Node.js**, **TypeScript**, **MongoDB**, **Firebase** and **PostgreSQL**.
-- 🌱 I’m currently learning Full stack development and UI design.
+- 🌱 I’m currently learning Full stack development.
 - 🚀 I’m looking to collaborate on open source projects.
 - 📫   Reach me on [Instagram](https://instagram.com/nexckycort).
 - 😄  Pronouns: he/him.
