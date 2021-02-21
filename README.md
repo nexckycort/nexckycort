@@ -34,15 +34,15 @@ I'm a developer passionate about developing Full Stack applications with free an
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 380 Contributions in the Year 2021
+> 🏆 383 Contributions in the Year 2021
  > 
-> 📦 94.1 kB Used in Github's Storage 
+> 📦 94.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 70 Private Repositories  
+> 🔑 71 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -50,17 +50,17 @@ I'm a developer passionate about developing Full Stack applications with free an
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               31 hrs 25 mins      ████████████████████░░░░░   80.84% 
-Go                       2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
-JSON                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-JavaScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+TypeScript               35 hrs 16 mins      ████████████████████░░░░░   81.24% 
+JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Go                       2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+Other                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.58% 
+JavaScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 
 🔥 Editors: 
-VS Code                  38 hrs 52 mins      █████████████████████████   100.0%
+VS Code                  43 hrs 24 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    38 hrs 52 mins      █████████████████████████   100.0%
+Linux                    43 hrs 24 mins      █████████████████████████   100.0%
 
 ```
 
