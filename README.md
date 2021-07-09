@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer passionate about developing Full Stack applications with free and open source technologies from Colombia. I like Go, TypeScript, and fast websites.
+I'm a developer passionate about developing Full Stack applications with free and open source technologies from Colombia. I like TypeScript and fast websites.
 
 - 👨🏽‍💻 I'm currently working with **Node.js**, **TypeScript**, **MongoDB**, **Firebase** and **PostgreSQL**.
 - 🌱 I’m currently learning Full stack development.
