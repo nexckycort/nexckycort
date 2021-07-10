@@ -29,7 +29,7 @@ I'm a developer passionate about developing Full Stack applications with free an
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,975 Contributions in the Year 2021
+> 🏆 1,978 Contributions in the Year 2021
  > 
 > 📦 644.3 kB Used in Github's Storage 
  > 
@@ -37,7 +37,7 @@ I'm a developer passionate about developing Full Stack applications with free an
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 86 Private Repositories  
+> 🔑 87 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -45,21 +45,21 @@ I'm a developer passionate about developing Full Stack applications with free an
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               14 hrs 58 mins      ██████████████████░░░░░░░   74.51% 
-JSON                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
-JavaScript               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
-HTML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+TypeScript               13 hrs 25 mins      ██████████████████░░░░░░░   73.23% 
+JSON                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
+JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
 
 🔥 Editors: 
-VS Code                  20 hrs 6 mins       █████████████████████████   100.0%
+VS Code                  18 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    20 hrs 3 mins       █████████████████████████   99.75% 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+Linux                    18 hrs 16 mins      █████████████████████████   99.73% 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 ```
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
