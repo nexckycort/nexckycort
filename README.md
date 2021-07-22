@@ -35,10 +35,6 @@ I'm a developer passionate about developing Full Stack applications with free an
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 88 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
