@@ -21,23 +21,7 @@ I'm a developer passionate about developing Full Stack applications with free an
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"  height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
-<!-- Stats -->
-📈 **My Dev Statistics:**  
-
-<!-- waka time stats-->
-
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 1,991 Contributions in the Year 2021
- > 
-> 📦 644.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 88 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
