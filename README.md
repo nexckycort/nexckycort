@@ -28,21 +28,16 @@ I'm a developer passionate about developing Full Stack applications with free an
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               2 hrs 8 mins        █████████████░░░░░░░░░░░░   53.89% 
-YAML                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   31.4% 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
-Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.0% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 19/08/2021
+ Last Updated on 20/08/2021
 <!--END_SECTION:waka-->
