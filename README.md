@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a developer passionate about developing Full Stack applications with free and open source technologies from Colombia. I like TypeScript and fast websites.
+I'm a developer passionate about developing Backend with free and open source technologies from Colombia. I like TypeScript and fast websites.
 
-- 👨🏽‍💻 I'm currently working with **Node.js**, **TypeScript** and **Firebase**.
+- 👨🏽‍💻 I'm currently working with **Node.js**, **React**, **TypeScript**, **GraphQL** and **Amazon Aurora**.
 - 🌱 I’m currently learning Full stack development.
 - 🚀 I’m looking to collaborate on open source projects.
 - 📫   Reach me on [Instagram](https://instagram.com/nexckycort).
