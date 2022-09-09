@@ -22,7 +22,7 @@ I'm a developer passionate about developing Backend with free and open source te
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C298%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C301%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,5 +45,5 @@ WSL                      19 hrs 15 mins      ███████████�
 ```
 
 
- Last Updated on 08/09/2022 18:51:51 UTC
+ Last Updated on 09/09/2022 18:52:08 UTC
 <!--END_SECTION:waka-->
