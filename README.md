@@ -22,7 +22,7 @@ I'm a developer passionate about developing Backend with free and open source te
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2045%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,21 +30,21 @@ I'm a developer passionate about developing Backend with free and open source te
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               10 hrs 38 mins      ███████████████████████░░   91.89% 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+TypeScript               8 hrs 19 mins       ██████████████████████░░░   88.93% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
 🔥 Editors: 
-VS Code                  11 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  9 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      11 hrs 28 mins      ████████████████████████░   99.03% 
-Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+WSL                      9 hrs 14 mins       ████████████████████████░   98.81% 
+Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 ```
 
 
- Last Updated on 21/10/2022 18:59:47 UTC
+ Last Updated on 22/10/2022 18:54:18 UTC
 <!--END_SECTION:waka-->
