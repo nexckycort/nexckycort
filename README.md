@@ -24,27 +24,6 @@ I'm a developer passionate about developing Backend with free and open source te
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C611%20hrs%202%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-TypeScript               10 hrs 39 mins      ██████████████████░░░░░░░   73.48% 
-JavaScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-CSS                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-HTML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
-
-🔥 Editors: 
-VS Code                  14 hrs 30 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-WSL                      14 hrs 28 mins      █████████████████████████   99.72% 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-
-```
-
-
- Last Updated on 01/01/2023 18:37:48 UTC
+ Last Updated on 02/01/2023 18:38:33 UTC
 <!--END_SECTION:waka-->
