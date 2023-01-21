@@ -22,7 +22,7 @@ I'm a developer passionate about developing Backend with free and open source te
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C721%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C732%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,21 +30,21 @@ I'm a developer passionate about developing Backend with free and open source te
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               43 hrs 34 mins      █████████████████████░░░░   84.52% 
-JSON                     4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
-Bash                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-JavaScript               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+TypeScript               41 hrs 42 mins      ████████████████████░░░░░   83.15% 
+JSON                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
+Bash                     2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+JavaScript               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 🔥 Editors: 
-VS Code                  51 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  50 hrs 9 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      51 hrs 32 mins      █████████████████████████   99.95% 
+WSL                      50 hrs 8 mins       █████████████████████████   99.95% 
 Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
 
- Last Updated on 20/01/2023 18:40:48 UTC
+ Last Updated on 21/01/2023 18:38:11 UTC
 <!--END_SECTION:waka-->
