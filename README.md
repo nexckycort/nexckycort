@@ -22,7 +22,7 @@ I'm a developer passionate about developing Backend with free and open source te
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C210%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C210%20hrs%2041%20mins-blue)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -57,5 +57,5 @@ WSL                      17 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 20/05/2023 18:38:05 UTC
+ Last Updated on 21/05/2023 18:37:52 UTC
 <!--END_SECTION:waka-->
