@@ -22,7 +22,7 @@ I'm a developer passionate about developing Backend with free and open source te
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C843%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C843%20hrs%2047%20mins-blue)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -43,15 +43,16 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████████   100.00 % 
+TypeScript               1 hr 32 mins        ███████████████████████░░   93.51 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
+WSL                      1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/01/2024 18:39:20 UTC
+ Last Updated on 11/01/2024 18:38:59 UTC
 <!--END_SECTION:waka-->
