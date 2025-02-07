@@ -22,17 +22,17 @@ I'm a developer passionate about developing Backend with free and open source te
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20"/></code>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C802%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C813%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30340 commits       ████████░░░░░░░░░░░░░░░░░   33.72 % 
-🌆 Daytime                39529 commits       ███████████░░░░░░░░░░░░░░   43.93 % 
-🌃 Evening                14995 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-🌙 Night                  5115 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+🌞 Morning                483 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+🌆 Daytime                832 commits         █████████░░░░░░░░░░░░░░░░   35.62 % 
+🌃 Evening                760 commits         ████████░░░░░░░░░░░░░░░░░   32.53 % 
+🌙 Night                  261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
@@ -43,5 +43,5 @@ I'm a developer passionate about developing Backend with free and open source te
 ```
 
 
- Last Updated on 06/02/2025 19:04:46 UTC
+ Last Updated on 07/02/2025 18:47:51 UTC
 <!--END_SECTION:waka-->
